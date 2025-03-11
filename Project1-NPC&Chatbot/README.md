@@ -1,2 +1,1 @@
-# Decentraland-Project
-Projects developed for my thesis on Decentraland, including smart contracts, 3D scenes, and blockchain interactions for immersive metaverse experiences.
+This project, developed on the Decentraland platform, integrates interactive virtual experiences with AI-driven conversational technology. In this setup, when a user approaches a non-player character (NPC) and presses the "e" key, a static message is sent to a Rasa server. This triggers a predefined dialogue or action managed by the AI backend, effectively bridging the virtual world with responsive, intelligent interactions. The implementation highlights the potential of combining decentralized virtual environments with advanced chatbots to create immersive and dynamic user experiences.
