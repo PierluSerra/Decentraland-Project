@@ -1,0 +1,45 @@
+version: "3.1"
+
+nlu:
+  - intent: greet
+    examples: |
+      - Ciao
+      - Salve
+      - Buongiorno
+      - Ehi, come va?
+      - Ciao, come stai?
+
+  - intent: ask_weather
+    examples: |
+      - Che tempo fa oggi?
+      - Come sarà il meteo?
+      - C'è il sole oggi?
+      - Come va il clima?
+
+  - intent: mood_great
+    examples: |
+      - Sto molto bene
+      - Mi sento felice
+      - Sono di buon umore
+      - Sono contento
+
+  - intent: mood_unhappy
+    examples: |
+      - Non mi sento tanto bene
+      - Sono triste
+      - Oggi non è una buona giornata
+      - Non sono di buon umore
+
+  - intent: affirm
+    examples: |
+      - Sì
+      - Certo
+      - Esatto
+      - Va bene
+
+  - intent: deny
+    examples: |
+      - No
+      - Non proprio
+      - Non è stato utile
+      - No, grazie
