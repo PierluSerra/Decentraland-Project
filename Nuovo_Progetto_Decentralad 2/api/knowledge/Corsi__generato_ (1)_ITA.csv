@@ -1,0 +1,22 @@
+Corsi__generato_ (1)
+;Codice_corso;Nome_corso;Id_professore;email;Piano_di_studi;Anno;Semestre;Lingua;url_programma
+0;DBDA;Database;p-giuliano-armano;armano@unica.it;;2;1;IT;
+1;ML;Machine Learning;p-lorenzo-putzu;lorenzo.putzu@unica.it;;2;1;IT;
+2;MD;Matematica Discreta;p-stefano-bonzio;stefano.bonzio@unica.it;;1;1;IT;
+3;ASD;Algoritmi e Strutture Dati;p-ludovico-boratto;ludovico.boratto@unica.it;;1;2;IT;
+4;SOPR;Sistemi Operativi e Programmazione di Rete;p-salvatore-mario-carta;salvatore@unica.it;;2;1;IT;
+5;FDI;Fondamenti di Informatica;p-andrea-casanova;casanova@unica.it;;1;1;IT;
+6;EAM;Economia e Management;p-manuel-castriotta;manuel.castriotta@unica.it;;3;1;IT;
+7;DV;Data Visualization;p-gianmarco-cherchi;g.cherchi@unica.it;;2;2;IT;
+8;SC;Statistica Computazionale;p-claudio-conversano;conversa@unica.it;;3;1;IT;
+9;AM;Analisi Matematica;p-rafael-diaz-fuentes;rafael.diazfuentes@unica.it;;1;1;IT;
+10;FEA;Fondamenti di Economia;p-ivan-etzo;ietzo@unica.it;;2;2;IT;
+11;FIS;Fisica;p-ciriaco-goddi;ciriaco.goddi@unica.it;;1;2;IT;
+12;PIS;Probabilità e Inferenza Statistica;p-amir-khorrami-chokami;amir.khorramichokami@unica.it;;1;2;IT;
+13;FEA;Fondamenti di Economia II;p-vania-licio;vaniam.licio@unica.it;;2;2;IT;
+14;SW;Ingegneria del Software;p-maria-ilaria-lunesu;ilaria.lunesu@unica.it;;2;2;IT;
+15;ARE;Architettura degli Elaboratori;p-francesca-maridina-malloci;francescam.malloci@unica.it;;1;2;IT;
+16;DL;Deep Learning;p-mirko-marras;mirko.marras@unica.it;;2;2;IT;
+17;AI;AI and Security II;p-marco-micheletto;marco.micheletto@unica.it;;3;2;IT;
+18;AI;AI and Security I;p-giulia-orru;giulia.orru@unica.it;;3;2;IT;
+19;PR;Programmazione;p-roberto-tonelli;r.tonelli@unica.it;;1;1;IT;

@@ -1,0 +1,6 @@
+Q1: Chi è il professore di Programmazione?
+Q2: Quali lezioni si svolgono il Lunedì?
+Q3: Chi è l'ingegnante di Ingegneria del Software e quando si tengono le lezioni del corso di Ingegneria del Software?
+Q4: In quale aula si tiene il corso di Fisica e chi è il professore del corso?
+Q5: Chi insegna Deep Learning e a che ora inizia il corso?
+Q6: Quanti corsi ha il docente di Database?

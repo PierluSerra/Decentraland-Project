@@ -1,0 +1,22 @@
+Professori__generato_ (1)
+Id_professore;Nome;email;Nome_corso;Dipartimento;Ufficio;Orario_Ufficio;Numero;Url_profilo;Note
+p-giuliano-armano;Giuliano Armano;armano@unica.it;Databases;;;;;;
+p-lorenzo-putzu;Lorenzo Putzu;lorenzo.putzu@unica.it;Machine Learning;;;;;;
+p-stefano-bonzio;Stefano Bonzio;stefano.bonzio@unica.it;Discrete Mathematics;;;;;;
+p-ludovico-boratto;Ludovico Boratto;ludovico.boratto@unica.it;Algorithms and Data Structures;;;;;;
+p-salvatore-mario-carta;Salvatore Mario Carta;salvatore@unica.it;Operating Systems and Network Programming;;;;;;
+p-andrea-casanova;Andrea Casanova;casanova@unica.it;Foundations of Computer Science;;;;;;
+p-manuel-castriotta;Manuel Castriotta;manuel.castriotta@unica.it;Economics and Management;;;;;;
+p-gianmarco-cherchi;Gianmarco Cherchi;g.cherchi@unica.it;Data Visualization;;;;;;
+p-claudio-conversano;Claudio Conversano;conversa@unica.it;Computational Statistics;;;;;;
+p-rafael-diaz-fuentes;Rafael Díaz Fuentes;rafael.diazfuentes@unica.it;Mathematical Analysis;;;;;;
+p-ivan-etzo;Ivan Etzo;ietzo@unica.it;Foundations of Economics;;;;;;
+p-ciriaco-goddi;Ciriaco Goddi;ciriaco.goddi@unica.it;Physics;;;;;;
+p-amir-khorrami-chokami;Amir Khorrami Chokami;amir.khorramichokami@unica.it;Probability and Statistical Inference;;;;;;
+p-vania-licio;Vania Licio;vaniam.licio@unica.it;Foundations of Economics II;;;;;;
+p-maria-ilaria-lunesu;Maria Ilaria Lunesu;ilaria.lunesu@unica.it;Software Engineering;;;;;;
+p-francesca-maridina-malloci;Francesca Maridina Malloci;francescam.malloci@unica.it;Computer Architecture;;;;;;
+p-mirko-marras;Mirko Marras;mirko.marras@unica.it;Deep Learning;;;;;;
+p-marco-micheletto;Marco Micheletto;marco.micheletto@unica.it;AI and Security II;;;;;;
+p-giulia-orru;Giulia Orrù;giulia.orru@unica.it;AI and Security I;;;;;;
+p-roberto-tonelli;Roberto Tonelli;r.tonelli@unica.it;Programming;;;;;;

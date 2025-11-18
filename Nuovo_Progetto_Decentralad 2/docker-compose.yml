@@ -1,0 +1,12 @@
+version: "3.9"
+services:
+  bot-api:
+    build: ./api
+    environment:
+      - OLLAMA_URL=http://host.docker.internal:11434
+      - MODEL=gpt-oss:20b-cloud
+      - ALLOW_ORIGINS=http://localhost:8000,http://127.0.0.1:8000,https://play.decentraland.org
+    extra_hosts:
+      - "host.docker.internal:host-gateway"
+    ports:
+      - "8787:8787"
